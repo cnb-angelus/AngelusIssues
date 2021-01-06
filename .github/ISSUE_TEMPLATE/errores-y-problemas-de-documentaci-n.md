@@ -1,14 +1,17 @@
 ---
-name: Sugerencias y mejoras
-about: Sugiere una idea para este proyecto
-title: "[Sistema] Mejora: ..."
-labels: mejoras
+name: Errores y problemas de documentación
+about: Ayudanos a mejorar la documentación
+title: "[Sistema] Error en documento ..."
+labels: documentacion
 assignees: ''
 
 ---
 
-**¿Su solicitud de función está relacionada con un problema? Por favor describa.**
-Una descripción clara y concisa de cuál es el problema. Ex. Siempre me frustra cuando [...]
+**Documento**
+Título y link al archivo
+
+**Describe el problema**
+Una descripción clara y concisa del problema
 
 **Describe la solución que te gustaría**
 Una descripción clara y concisa de lo que quieres que suceda.

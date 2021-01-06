@@ -7,10 +7,6 @@ assignees: ''
 
 ---
 
-**Sistema**
-Repositorio de documentos, ontología, anotador o visualizador
-No olvides etiquetar este reporte según corresponda.
-
 **Describe el problema**
 Una descripción clara y concisa del problema
 
