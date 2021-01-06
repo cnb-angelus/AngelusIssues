@@ -1,7 +1,7 @@
 ---
 name: Reporte de problemas
 about: Crea un reporte para ayudarnos a mejorar
-title: ''
+title: "[Sistema] Problema con ..."
 labels: bug
 assignees: ''
 

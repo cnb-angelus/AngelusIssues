@@ -1,7 +1,7 @@
 ---
 name: Sugerencias y mejoras
 about: Sugiere una idea para este proyecto
-title: ''
+title: "[Sistema] Mejora: ..."
 labels: mejoras
 assignees: ''
 

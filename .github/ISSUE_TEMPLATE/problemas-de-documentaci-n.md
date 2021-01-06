@@ -1,7 +1,7 @@
 ---
 name: Problemas de documentación
 about: Ayudanos a mejorar la documentación
-title: ''
+title: "[Sistema] Documentación ..."
 labels: documentacion
 assignees: ''
 
