@@ -1,15 +1,11 @@
 ---
-name: Problemas de documentación
+name: Errores de documentación
 about: Ayudanos a mejorar la documentación
-title: "[Sistema] Documentación ..."
+title: "[Sistema] Error en documento ..."
 labels: documentacion
 assignees: ''
 
 ---
-
-**Sistema**
-Repositorio de documentos, ontología, anotador o visualizador
-No olvides etiquetar este reporte según corresponda.
 
 **Documento**
 Título y link al archivo
