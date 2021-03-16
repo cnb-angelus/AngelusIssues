@@ -22,6 +22,7 @@ Una descripción clara y concisa de lo que esperaba que sucediera.
 
 **Capturas de pantalla**
 Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
+Opriman F12, debe aparecer una barra abajo, revisen estar en el tab de Console y capturen la pantalla con ImpPt.
 
 **Escritorio (complete la siguiente información):**
  - SO: [p. Ej. Windows, Mac]
